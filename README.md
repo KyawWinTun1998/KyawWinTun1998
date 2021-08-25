@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything...**
 
-- 👯 I’m loving in 
+- 👯 I’m loving in coding
 
 
 <h3 align="left">Languages and Tools:</h3>
