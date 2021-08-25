@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Everything...**
 
-- 👯 I’m looking to collaborate on [Movie World]()
+- 👯 I’m loving in 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawwintun1998&show_icons=true&locale=en&layout=compact" alt="kyawwintun1998" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawwintun1998&show_icons=true&locale=en" alt="kyawwintun1998" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyawwintun1998&show_icons=true&locale=en&theme=dark)" alt="kyawwintun1998" /></p>
