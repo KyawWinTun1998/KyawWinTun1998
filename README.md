@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawwintun1998&label=Profile%20views&color=0e75b6&style=flat" alt="kyawwintun1998" /> </p>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Everything...**
 
-- 👯 I’m looking to collaborate on [Movie World](movieworld.kyawwintun.me)
+- 👯 I’m looking to collaborate on [Movie World]()
 
 
 <h3 align="left">Languages and Tools:</h3>
